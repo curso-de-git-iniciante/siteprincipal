@@ -1,3 +1,8 @@
 * {
     background-color: rgb(255, 116, 237);
 }
+
+p {
+    font-size: 12px;
+    font-weight: bold;
+}
